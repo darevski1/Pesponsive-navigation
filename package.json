@@ -1,0 +1,19 @@
+{
+  "name": "navigation",
+  "version": "1.0.0",
+  "description": "Responsive navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch dist/scss -o dist/css"
+  },
+  "keywords": [
+    "Navigation",
+    "Responsive"
+  ],
+  "author": "Darevski",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
